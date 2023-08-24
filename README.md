@@ -1,2 +1,1 @@
-# odin-recipes
-This is the project in the Odin html course
+This is the recipe project form the odin project html, css, javascript course
